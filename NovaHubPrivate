@@ -849,7 +849,7 @@ end)
 
 local Misc = window:AddTab("Misc")
 
-local Teleport = Misc:AddFolder(Teleport)
+local Teleport = Misc:AddFolder("Teleport")
 
 Teleport :AddButton("Tiny Island", function()
     game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-31.8626194, 6.0588026, 2087.88672)
