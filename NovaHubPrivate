@@ -1,4 +1,4 @@
-local library = loadstring(game:HttpGet("https://pastebin.com/raw/Abg3RkND", true))()
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/memejames/elerium-v2-ui-library//main/Library", true))()
 
 local window = library:AddWindow("Nova Hub | Paid Version V2 Cracked By ZTX", {
     main_color = Color3.fromRGB(0, 0, 0),
